@@ -8,14 +8,14 @@ This project is an example showing you how to create simple SDR receiver for nar
 * Creation of software application enabling the observation of the spectrum of received signals and signal processing to decode the received data into an image.
 * All steps have been detailed in the engineering thesis in the Polish language.
 
-Complete Device:
+# Complete Device:
 ![sdr](https://github.com/BartlomiejWos/Prototype-SDR-Receiver-For-NOAA-Image-Acquisition/assets/161388878/d6cecb45-81b8-405c-be6d-85b31180e8e5)
 
-Software written in python for spectral analysis and signal recording:
+# Software written in python for spectral analysis and signal recording:
 ![gui](https://github.com/BartlomiejWos/Prototype-SDR-Receiver-For-NOAA-Image-Acquisition/assets/161388878/ca0806d9-ff2d-4afc-9d41-fdea74770b2c)
 
-NOAA image decoder:
+# NOAA image decoder:
 ![decoder](https://github.com/BartlomiejWos/Prototype-SDR-Receiver-For-NOAA-Image-Acquisition/assets/161388878/53a9c1eb-d77c-44a0-8751-ac79685338e6)
 
-PCB layout of radio front-end:
+# PCB layout of radio front-end:
 ![layout](https://github.com/BartlomiejWos/Prototype-SDR-Receiver-For-NOAA-Image-Acquisition/assets/161388878/d8540fe4-c1b8-4f02-a3b0-5488f69d04fc)
