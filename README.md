@@ -19,3 +19,4 @@ This project is an example showing you how to create simple SDR receiver for nar
 
 ## PCB layout of radio front-end:
 ![layout](https://github.com/BartlomiejWos/Prototype-SDR-Receiver-For-NOAA-Image-Acquisition/assets/161388878/d8540fe4-c1b8-4f02-a3b0-5488f69d04fc)
+
